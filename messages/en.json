@@ -1,0 +1,161 @@
+{
+    "Navbar": {
+        "market": "Market",
+        "arcade": "Arcade",
+        "connect": "Connect Wallet"
+    },
+    "Hero": {
+        "title": "Trade the <highlight>Vibe</highlight>",
+        "subtitle": "The first sentiment-based crypto exchange.",
+        "cta": "Start Trading"
+    },
+    "Common": {
+        "buy": "Buy",
+        "loading": "Loading...",
+        "buyNow": "Buy Now"
+    },
+    "MarketList": {
+        "title": "Market <highlight>Pulse</highlight>",
+        "subtitle": "Live prices, trends, and history from all markets.",
+        "loadMore": "Load More Assets",
+        "loading": "Loading...",
+        "asset": "Asset",
+        "price": "Price",
+        "change24h": "24h %",
+        "trend7d": "7d Trend",
+        "marketCap": "Market Cap",
+        "volume": "Volume"
+    },
+    "AssetPage": {
+        "about": "About",
+        "marketStats": "Market Stats",
+        "officialLinks": "Official Links",
+        "website": "Website",
+        "whitepaper": "Whitepaper",
+        "community": "Community",
+        "contract": "Contract",
+        "buy": "Buy"
+    },
+    "Community": {
+        "title": "JOIN THE <highlight>TRIBE</highlight>",
+        "subtitle": "We are 50,000+ traders strong. Join our Discord for alpha leaks, trading signals, and memes.",
+        "discord": "Join Discord",
+        "twitter": "Follow Twitter"
+    },
+    "WhyFlux": {
+        "title": "Why <highlight>Flux?</highlight>",
+        "subtitle": "Built for the next generation of traders. Faster, smarter, and safer than anything else.",
+        "fast": "Lightning Fast",
+        "fastDesc": "Zero latency trading. Our engine processes 50,000 TPS so you never miss a pump.",
+        "security": "Bank-Grade Security",
+        "securityDesc": "Your funds are SAFU. Multi-sig cold storage and real-time fraud detection.",
+        "ai": "AI Powered",
+        "aiDesc": "Don't trade alone. Our AI agents analyze sentiment and trends for you 24/7."
+    },
+    "FluxCash": {
+        "badge": "Flux Cash P2P",
+        "title": "No Bank? <highlight>No Problem.</highlight>",
+        "subtitle": "The world's first localized P2P mesh network. Find a vetted <bold>Flux Agent</bold> in your neighborhood and swap Cash for Crypto in minutes.",
+        "activeIn": "Active in: Damascus, Aleppo, Beirut, Istanbul.",
+        "map": "Local Map",
+        "mapDesc": "See agents near you in real-time.",
+        "trust": "Vetted Trust",
+        "trustDesc": "All agents are verified with community reputation.",
+        "connect": "Direct Connect",
+        "connectDesc": "Chat safely via the app. No middlemen.",
+        "agentsOnline": "Agents Online",
+        "region": "Syria & Lebanon",
+        "findNow": "Find Now",
+        "damascusAgent": "Damascus Agent",
+        "aleppoHub": "Aleppo Hub",
+        "beirutCash": "Beirut Cash"
+    },
+    "TrustSection": {
+        "title": "Trusted by Industry Leaders"
+    },
+    "HypeStream": {
+        "title": "Market Pulse (Feed)",
+        "hypeScore": "Hype Score",
+        "aiInsight": "AI Insight"
+    },
+    "Arcade": {
+        "badge": "Arcade Mode",
+        "title": "Swipe to <highlight>Swap</highlight>",
+        "subtitle": "Pass or Ape. The fastest way to trade.",
+        "refilling": "Refilling Deck...",
+        "next": "Next:",
+        "ape": "APE",
+        "pass": "PASS",
+        "drag": "DRAG CARD",
+        "apeBtn": "Ape",
+        "passBtn": "Pass"
+    },
+    "TradingActors": {
+        "badge": "AI Auto-Trading",
+        "title": "Don't Trade. <highlight>Hire.</highlight>",
+        "subtitle": "Choose your personalized AI Agent. They scan the market 24/7 so you don't have to.",
+        "hire": "Hire Agent",
+        "apr": "APR",
+        "winRate": "Win Rate",
+        "risk": "Risk",
+        "riskLevels": {
+            "Extreme": "Extreme",
+            "Low": "Low",
+            "Medium": "Medium"
+        },
+        "actors": {
+            "degen": {
+                "name": "Maximum Chad",
+                "role": "The Degen Hunter",
+                "desc": "High risk, infinite reward. Snipes memecoins before they trend. 0 sleep, 100% caffeine."
+            },
+            "sheikh": {
+                "name": "Al-Habeeb AI",
+                "role": "The Whale",
+                "desc": "Halal certified gains. Only buys blue chips and real utility. Steady layout, zero stress."
+            },
+            "trend": {
+                "name": "Alpha Pulse",
+                "role": "The Trend Surfer",
+                "desc": "Pure math. Follows the Flux social volume. If they talk, we buy."
+            }
+        }
+    },
+    "FeaturedCards": {
+        "trending": "Trending:"
+    },
+    "HowItWorks": {
+        "title": "Launch in <highlight>Seconds</highlight>",
+        "subtitle": "No coding required. Just an idea and a community.",
+        "step1_title": "Connect",
+        "step1_desc": "Link your wallet securely.",
+        "step2_title": "Create",
+        "step2_desc": "Define your name, ticker, and image.",
+        "step3_title": "Launch",
+        "step3_desc": "Deploy to the bonding curve instantly."
+    },
+    "Tokenomics": {
+        "title": "$FLUX Tokenomics",
+        "subtitle": "The fuel for the sentiment engine."
+    },
+    "Create": {
+        "title": "Launch a <highlight>Token</highlight>",
+        "subtitle": "Deploy your meme, coin, or utility token in seconds. No code required.",
+        "form": {
+            "name": "Token Name",
+            "ticker": "Ticker Symbol ($)",
+            "description": "Description",
+            "image": "Token Image",
+            "upload": "Drag and drop or click to upload",
+            "launch": "Launch Token",
+            "advanced": "Advanced Options",
+            "socials": "Social Links"
+        },
+        "preview": "Preview",
+        "success": {
+            "title": "Token Deployed!",
+            "desc": "Your token is now live on the bonding curve.",
+            "view": "View Token"
+        }
+    }
+}
